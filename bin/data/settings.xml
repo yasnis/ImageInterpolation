@@ -1,0 +1,27 @@
+<Setting>
+	<Parameter_Group_0>
+		<Param_0>0.3</Param_0>
+		<Param_1>128</Param_1>
+		<Param_2>0</Param_2>
+	</Parameter_Group_0>
+	<Parameter_Group_1>
+		<toggle>0</toggle>
+		<string>test</string>
+	</Parameter_Group_1>
+<Setting/>
+<group>
+		<lkMaxLevel>6</lkMaxLevel>
+		<lkMaxFeatures>245</lkMaxFeatures>
+		<lkQualityLevel>0.02</lkQualityLevel>
+		<lkMinDistance>4</lkMinDistance>
+		<lkWinSize>27</lkWinSize>
+		<Use_Farneback>1</Use_Farneback>
+		<fbPyrScale>0.2079</fbPyrScale>
+		<fbLevels>4</fbLevels>
+		<fbIterations>2</fbIterations>
+		<fbPolyN>10</fbPolyN>
+		<fbPolySigma>1.5905</fbPolySigma>
+		<fbUseGaussian>1</fbUseGaussian>
+		<winSize>51</winSize>
+	</group>
+</Setting>
