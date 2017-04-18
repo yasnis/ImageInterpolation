@@ -1,2 +1,3 @@
-ofMinimalProjectWithUI
+ImageInterpolation
 ================
+Implementation in progress.
